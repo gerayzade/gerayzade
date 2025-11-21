@@ -3,4 +3,4 @@ a front-end developer with over 10 years of hands-on experience in tech!
 
 ### My Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gerayzade&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gerayzade&hide_border=true)
